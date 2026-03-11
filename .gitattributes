@@ -1,9 +1,1 @@
-# Language breakdown for GitHub
-# Python: main.py, api/, core/
-# HTML: ui/index.html (frontend layer only)
-
-*.py    linguist-language=Python  linguist-detectable=true
-*.html  linguist-language=HTML    linguist-detectable=true
-*.md    linguist-detectable=false
-*.txt   linguist-detectable=false
-*.json  linguist-detectable=false
+ui/index.html linguist-vendored=true
