@@ -1,0 +1,6 @@
+venv/
+data/uploads/
+data/settings.json
+__pycache__/
+*.pyc
+*.pt
